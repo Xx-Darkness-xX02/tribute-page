@@ -91,6 +91,12 @@ i {
 
 }
 
+
+footer div a {
+  color: black;
+
+}
+
 i:hover {
     color: #ee3cc9;
     transform: scale(1.4);
