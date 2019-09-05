@@ -106,7 +106,7 @@ i:hover {
 /*--------------------------------------------------- einde footer ---------------------------------------------*/
 /*--------------------------------------------------- mediaquery tablet ---------------------------------------------*/
 
-@media all and (min-width: 800px) {
+@media all and (min-width: 730px) {
     article#article1 {
         display: grid;
         grid-template-columns: 2fr 1fr 2fr;
